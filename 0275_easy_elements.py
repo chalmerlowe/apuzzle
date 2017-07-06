@@ -33,9 +33,6 @@ def reddit(element, symbol):
     # your code goes here...
 
 
-
-
-
 if __name__ =='__main__':
     assert reddit('Spenglerium', 'Ee') == True
     assert reddit('Zeddemorium', 'Zr') == True
